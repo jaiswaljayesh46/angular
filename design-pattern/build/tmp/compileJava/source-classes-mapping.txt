@@ -1,0 +1,16 @@
+com/pattern/singleton/SingletonPattern.java
+ com.pattern.singleton.SingletonPattern
+com/pattern/singleton/SingletonMain.java
+ com.pattern.singleton.SingletonMain
+com/pattern/factory/Circle.java
+ com.pattern.factory.Circle
+com/pattern/factory/Shape.java
+ com.pattern.factory.Shape
+com/pattern/factory/Rectangle.java
+ com.pattern.factory.Rectangle
+com/pattern/factory/Square.java
+ com.pattern.factory.Square
+com/pattern/factory/ShapeFactory.java
+ com.pattern.factory.ShapeFactory
+com/pattern/factory/FactoryMain.java
+ com.pattern.factory.FactoryMain
