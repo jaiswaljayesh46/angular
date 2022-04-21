@@ -14,3 +14,9 @@ com/pattern/factory/ShapeFactory.java
  com.pattern.factory.ShapeFactory
 com/pattern/factory/FactoryMain.java
  com.pattern.factory.FactoryMain
+com/pattern/multithreading/pc/ProducerConsumer.java
+ com.pattern.multithreading.pc.ProducerConsumer
+com/pattern/multithreading/pc/Main.java
+ com.pattern.multithreading.pc.Main
+ com.pattern.multithreading.pc.Main$1
+ com.pattern.multithreading.pc.Main$2
