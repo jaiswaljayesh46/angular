@@ -26,3 +26,7 @@ com/pattern/codility/Solution.java
  com.pattern.codility.Solution
 com/pattern/codility/Employee.java
  com.pattern.codility.Employee
+com/pattern/codility/SmallestNumber.java
+ com.pattern.codility.SmallestNumber
+com/pattern/codility/RemoveLetters.java
+ com.pattern.codility.RemoveLetters
