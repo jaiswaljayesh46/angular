@@ -30,3 +30,27 @@ com/pattern/codility/SmallestNumber.java
  com.pattern.codility.SmallestNumber
 com/pattern/codility/RemoveLetters.java
  com.pattern.codility.RemoveLetters
+com/pattern/strategy/Role.java
+ com.pattern.strategy.Role
+com/pattern/GFG.java
+ com.pattern.Child
+ com.pattern.GFG
+ com.pattern.Parent
+com/pattern/strategy/Consultant.java
+ com.pattern.strategy.Consultant
+com/pattern/strategy/Employee.java
+ com.pattern.strategy.Employee
+com/pattern/strategy/SeniorConsultant.java
+ com.pattern.strategy.SeniorConsultant
+com/pattern/strategy/PrincipalConsultant.java
+ com.pattern.strategy.PrincipalConsultant
+com/pattern/strategy/LeadConsultant.java
+ com.pattern.strategy.LeadConsultant
+com/pattern/strategy/Main.java
+ com.pattern.strategy.Main
+com/pattern/builder/PhoneBuilder.java
+ com.pattern.builder.PhoneBuilder
+com/pattern/builder/Main.java
+ com.pattern.builder.Main
+com/pattern/builder/Phone.java
+ com.pattern.builder.Phone
