@@ -50,7 +50,19 @@ com/pattern/strategy/Main.java
  com.pattern.strategy.Main
 com/pattern/builder/PhoneBuilder.java
  com.pattern.builder.PhoneBuilder
-com/pattern/builder/Main.java
- com.pattern.builder.Main
 com/pattern/builder/Phone.java
  com.pattern.builder.Phone
+com/pattern/builder/Main.java
+ com.pattern.builder.Main
+com/pattern/observer/Subscriber.java
+ com.pattern.observer.Subscriber
+com/pattern/observer/Channel.java
+ com.pattern.observer.Channel
+com/pattern/prototype/Book.java
+ com.pattern.prototype.Book
+com/pattern/observer/Main.java
+ com.pattern.observer.Main
+com/pattern/prototype/BookShop.java
+ com.pattern.prototype.BookShop
+com/pattern/prototype/Main.java
+ com.pattern.prototype.Main
