@@ -1,68 +1,88 @@
-com/pattern/factory/Square.java
- com.pattern.factory.Square
-com/pattern/multithreading/pc/ProducerConsumer.java
- com.pattern.multithreading.pc.ProducerConsumer
-com/pattern/singleton/SingletonMain.java
- com.pattern.singleton.SingletonMain
-com/pattern/factory/Circle.java
- com.pattern.factory.Circle
-com/pattern/factory/Shape.java
- com.pattern.factory.Shape
-com/pattern/codility/Stroke.java
- com.pattern.codility.Stroke
-com/pattern/factory/Rectangle.java
- com.pattern.factory.Rectangle
-com/pattern/singleton/SingletonPattern.java
- com.pattern.singleton.SingletonPattern
-com/pattern/multithreading/pc/Main.java
- com.pattern.multithreading.pc.Main
- com.pattern.multithreading.pc.Main$1
- com.pattern.multithreading.pc.Main$2
-com/pattern/factory/ShapeFactory.java
- com.pattern.factory.ShapeFactory
-com/pattern/factory/FactoryMain.java
- com.pattern.factory.FactoryMain
-com/pattern/codility/Solution.java
- com.pattern.codility.Solution
 com/pattern/codility/Employee.java
  com.pattern.codility.Employee
-com/pattern/codility/SmallestNumber.java
- com.pattern.codility.SmallestNumber
-com/pattern/codility/RemoveLetters.java
- com.pattern.codility.RemoveLetters
-com/pattern/strategy/Role.java
- com.pattern.strategy.Role
+com/pattern/multithreading/pc/ProducerConsumer.java
+ com.pattern.multithreading.pc.ProducerConsumer
 com/pattern/GFG.java
  com.pattern.Child
  com.pattern.GFG
  com.pattern.Parent
-com/pattern/strategy/Consultant.java
- com.pattern.strategy.Consultant
-com/pattern/strategy/Employee.java
- com.pattern.strategy.Employee
-com/pattern/strategy/SeniorConsultant.java
- com.pattern.strategy.SeniorConsultant
-com/pattern/strategy/PrincipalConsultant.java
- com.pattern.strategy.PrincipalConsultant
-com/pattern/strategy/LeadConsultant.java
- com.pattern.strategy.LeadConsultant
-com/pattern/strategy/Main.java
- com.pattern.strategy.Main
-com/pattern/builder/PhoneBuilder.java
- com.pattern.builder.PhoneBuilder
-com/pattern/builder/Phone.java
- com.pattern.builder.Phone
-com/pattern/builder/Main.java
- com.pattern.builder.Main
-com/pattern/observer/Subscriber.java
- com.pattern.observer.Subscriber
-com/pattern/observer/Channel.java
- com.pattern.observer.Channel
-com/pattern/prototype/Book.java
- com.pattern.prototype.Book
-com/pattern/observer/Main.java
- com.pattern.observer.Main
-com/pattern/prototype/BookShop.java
- com.pattern.prototype.BookShop
-com/pattern/prototype/Main.java
- com.pattern.prototype.Main
+com/pattern/multithreading/pc/Main.java
+ com.pattern.multithreading.pc.Main
+ com.pattern.multithreading.pc.Main$1
+ com.pattern.multithreading.pc.Main$2
+com/pattern/codility/RemoveLetters.java
+ com.pattern.codility.RemoveLetters
+com/pattern/codility/Stroke.java
+ com.pattern.codility.Stroke
+com/pattern/codility/Solution.java
+ com.pattern.codility.Solution
+com/pattern/codility/SmallestNumber.java
+ com.pattern.codility.SmallestNumber
+com/pattern/behavioral/strategy/Main.java
+ com.pattern.behavioral.strategy.Main
+com/pattern/creational/factory/ShapeFactory.java
+ com.pattern.creational.factory.ShapeFactory
+com/pattern/behavioral/strategy/SeniorConsultant.java
+ com.pattern.behavioral.strategy.SeniorConsultant
+com/pattern/behavioral/observer/Subscriber.java
+ com.pattern.behavioral.observer.Subscriber
+com/pattern/creational/factory/Shape.java
+ com.pattern.creational.factory.Shape
+com/pattern/creational/factory/Circle.java
+ com.pattern.creational.factory.Circle
+com/pattern/behavioral/strategy/Employee.java
+ com.pattern.behavioral.strategy.Employee
+com/pattern/creational/singleton/SingletonMain.java
+ com.pattern.creational.singleton.SingletonMain
+com/pattern/behavioral/strategy/Role.java
+ com.pattern.behavioral.strategy.Role
+com/pattern/creational/factory/Square.java
+ com.pattern.creational.factory.Square
+com/pattern/creational/builder/Main.java
+ com.pattern.creational.builder.Main
+com/pattern/creational/builder/Phone.java
+ com.pattern.creational.builder.Phone
+com/pattern/creational/factory/FactoryMain.java
+ com.pattern.creational.factory.FactoryMain
+com/pattern/behavioral/strategy/LeadConsultant.java
+ com.pattern.behavioral.strategy.LeadConsultant
+com/pattern/behavioral/strategy/Consultant.java
+ com.pattern.behavioral.strategy.Consultant
+com/pattern/creational/factory/Rectangle.java
+ com.pattern.creational.factory.Rectangle
+com/pattern/creational/singleton/SingletonPattern.java
+ com.pattern.creational.singleton.SingletonPattern
+com/pattern/creational/builder/PhoneBuilder.java
+ com.pattern.creational.builder.PhoneBuilder
+com/pattern/creational/prototype/Book.java
+ com.pattern.creational.prototype.Book
+com/pattern/creational/prototype/BookShop.java
+ com.pattern.creational.prototype.BookShop
+com/pattern/behavioral/strategy/PrincipalConsultant.java
+ com.pattern.behavioral.strategy.PrincipalConsultant
+com/pattern/behavioral/observer/Main.java
+ com.pattern.behavioral.observer.Main
+com/pattern/behavioral/observer/Channel.java
+ com.pattern.behavioral.observer.Channel
+com/pattern/creational/prototype/Main.java
+ com.pattern.creational.prototype.Main
+com/pattern/structural/proxy/WebPageProxy.java
+ com.pattern.structural.proxy.WebPageProxy
+com/pattern/structural/decorator/Car.java
+ com.pattern.structural.decorator.Car
+com/pattern/structural/proxy/WebPageImpl.java
+ com.pattern.structural.proxy.WebPageImpl
+com/pattern/structural/proxy/WebPage.java
+ com.pattern.structural.proxy.WebPage
+com/pattern/structural/decorator/BasicCar.java
+ com.pattern.structural.decorator.BasicCar
+com/pattern/structural/proxy/BrowserMain.java
+ com.pattern.structural.proxy.BrowserMain
+com/pattern/structural/decorator/Decorator.java
+ com.pattern.structural.decorator.Decorator
+com/pattern/structural/decorator/PassengerCar.java
+ com.pattern.structural.decorator.PassengerCar
+com/pattern/structural/decorator/LuxuryCar.java
+ com.pattern.structural.decorator.LuxuryCar
+com/pattern/structural/decorator/Main.java
+ com.pattern.structural.decorator.Main
