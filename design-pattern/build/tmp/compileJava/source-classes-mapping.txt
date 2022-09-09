@@ -134,3 +134,21 @@ com/pattern/behavioral/template/Game.java
  com.pattern.behavioral.template.Game
 com/pattern/behavioral/template/Chess.java
  com.pattern.behavioral.template.Chess
+com/pattern/behavioral/command/SetupBoxOffCommand.java
+ com.pattern.behavioral.command.SetupBoxOffCommand
+com/pattern/behavioral/command/Command.java
+ com.pattern.behavioral.command.Command
+com/pattern/behavioral/command/RemoteControl.java
+ com.pattern.behavioral.command.RemoteControl
+com/pattern/behavioral/command/SetupBox.java
+ com.pattern.behavioral.command.SetupBox
+com/pattern/behavioral/command/SetupBoxOnCommand.java
+ com.pattern.behavioral.command.SetupBoxOnCommand
+com/pattern/behavioral/command/Tv.java
+ com.pattern.behavioral.command.Tv
+com/pattern/behavioral/command/TvOnCommand.java
+ com.pattern.behavioral.command.TvOnCommand
+com/pattern/behavioral/command/Main.java
+ com.pattern.behavioral.command.Main
+com/pattern/behavioral/command/TvOffCommand.java
+ com.pattern.behavioral.command.TvOffCommand
