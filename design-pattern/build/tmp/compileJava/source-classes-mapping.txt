@@ -114,3 +114,23 @@ com/pattern/structural/facade/Main.java
  com.pattern.structural.facade.Main
 com/pattern/structural/facade/Blackberry.java
  com.pattern.structural.facade.Blackberry
+com/pattern/behavioral/chainofresponsibilities/Dimension.java
+ com.pattern.behavioral.chainofresponsibilities.Dimension
+com/pattern/behavioral/chainofresponsibilities/OneDimension.java
+ com.pattern.behavioral.chainofresponsibilities.OneDimension
+com/pattern/behavioral/chainofresponsibilities/Chain.java
+ com.pattern.behavioral.chainofresponsibilities.Chain
+com/pattern/behavioral/chainofresponsibilities/ThreeDimension.java
+ com.pattern.behavioral.chainofresponsibilities.ThreeDimension
+com/pattern/behavioral/chainofresponsibilities/Main.java
+ com.pattern.behavioral.chainofresponsibilities.Main
+com/pattern/behavioral/chainofresponsibilities/TwoDimension.java
+ com.pattern.behavioral.chainofresponsibilities.TwoDimension
+com/pattern/behavioral/template/Main.java
+ com.pattern.behavioral.template.Main
+com/pattern/behavioral/template/Ludo.java
+ com.pattern.behavioral.template.Ludo
+com/pattern/behavioral/template/Game.java
+ com.pattern.behavioral.template.Game
+com/pattern/behavioral/template/Chess.java
+ com.pattern.behavioral.template.Chess
